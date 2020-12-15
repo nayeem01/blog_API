@@ -10,7 +10,7 @@
 
 ### Documentation for this API
 
--   Click the link to read documentation[DOC](https://documenter.getpostman.com/view/13354304/TVspjozF)
+-   Click the link to read documentation [DOC](https://documenter.getpostman.com/view/13354304/TVspjozF)
 
 ### Images
 
